@@ -1,10 +1,10 @@
 import React from 'react'
-import img  from "../assests/images (1).jpeg"
+import img  from "../assests/Screenshot 2025-09-29 212123.png"
 
 const Frond = () => {
   return (
-    <div className='p-5 ml-[30%]'>
-        <img src={img} alt='image' className='h-[400px] w-[500px] items-center  ' />
+    <div>
+        <img src={img} alt='image' className='h-[400px] w-full items-center  ' />
         
 
     </div>
